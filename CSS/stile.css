@@ -1,0 +1,21 @@
+ header {
+    background-color: aqua;
+    text-align: center;
+    border: 1px solid blue;
+    color:antiquewhite;
+  }
+
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: plum;
+    color: white;
+    text-align: center;
+    border: 2px solid purple;
+  }
+  section { 
+    margin: auto;
+    width: 500px;
+  }
